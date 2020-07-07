@@ -1,1 +1,1 @@
-Semantic-aware Adaptive Knowledge Distillation Networks for Cross-modal Action Recognition
+Semantics-aware Adaptive Knowledge Distillation Networks for Sensor-to-Vision Action Recognition
