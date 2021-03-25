@@ -13,7 +13,7 @@ Soon will be available.
 
 ```
 @ARTICLE{yliuSAKDN, 
-author={Yangliu, Guanbin Li, Liang Lin}, 
+author={Yangliu, Keze Wang, Guanbin Li, Liang Lin}, 
 journal={submitted to IEEE Transactions on Image Processing}, 
 title={Semantics-aware Adaptive Knowledge Distillation Networks for Sensor-to-Vision Action Recognition}, 
 year={2020}, 
