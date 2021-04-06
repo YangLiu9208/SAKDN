@@ -14,7 +14,7 @@ Existing vision-based action recognition is susceptible to occlusion and appeara
 [MMAct](https://mmact19.github.io/2019/)        
 
 ## Codes 
-The code is available now!.    
+The code is available now!    
 For example, in the UTD dataset:   
 Step1: Extract the GAF images.    
 Step2: Run 1_UTD_SemanticFusion.py to train the teacher model.   
