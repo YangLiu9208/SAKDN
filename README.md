@@ -14,15 +14,15 @@ Existing vision-based action recognition is susceptible to occlusion and appeara
 [MMAct](https://mmact19.github.io/2019/)       
 
 ## GAF Data
-The extracted GAF images for three datasets can be downloaded:
+The extracted GAF images for three datasets can be downloaded:       
 [UTD-MHAD](https://drive.google.com/file/d/13Odg9lR5_nT9KWhHC7bczTss1inK6HWN/view?usp=sharing)         
 [Berkeley-MHAD](https://drive.google.com/file/d/1vun7yhIXgheiqXcNHtNF0wXVVIQsGa2E/view?usp=sharing)                
 [MMAct](https://mmact19.github.io/2019/)        
 
 ## Codes 
-The code is available now!     
-For example, in the UTD dataset:     
-Step1: Extract the GAF images.     
+The code is available now!        
+For example, in the UTD dataset:            
+Step1: Extract the GAF images.      
 Step2: Run 1_UTD_SemanticFusion.py to train the teacher model.     
 Step3: Run 2_run_UTD_All_SemanticAblationFusion_distill.py to conduct knowledge distillation.     
 
