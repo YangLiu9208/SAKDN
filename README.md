@@ -22,7 +22,7 @@ The extracted GAF images for three datasets can be downloaded:
 ## Codes 
 The code is available now!        
 For example, in the UTD dataset:            
-Step1: Extract the GAF images.      
+Step1: Extract the GAF images using [matlab codes](https://github.com/YangLiu9208/SAKDN/tree/master/GAF).      
 Step2: Run 1_UTD_SemanticFusion.py to train the teacher model.     
 Step3: Run 2_run_UTD_All_SemanticAblationFusion_distill.py to conduct knowledge distillation.     
 
@@ -39,3 +39,4 @@ doi={},
 ISSN={}, 
 month={},}
 ``` 
+If you have any question about this code, feel free to reach me (liuy856@mail.sysu.edu.cn)    
