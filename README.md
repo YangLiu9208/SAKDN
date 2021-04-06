@@ -17,7 +17,7 @@ Existing vision-based action recognition is susceptible to occlusion and appeara
 The extracted GAF images for three datasets can be downloaded:       
 [UTD-MHAD](https://drive.google.com/file/d/13Odg9lR5_nT9KWhHC7bczTss1inK6HWN/view?usp=sharing)         
 [Berkeley-MHAD](https://drive.google.com/file/d/1vun7yhIXgheiqXcNHtNF0wXVVIQsGa2E/view?usp=sharing)                
-[MMAct](https://mmact19.github.io/2019/)        
+[MMAct](https://drive.google.com/file/d/1ze3nlmoxbhD4ShAF4mZ_F5XUhVX6pbCB/view?usp=sharing)        
 
 ## Codes 
 The code is available now!        
