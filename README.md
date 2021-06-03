@@ -31,17 +31,12 @@ Step2: Run 1_UTD_SemanticFusion.py to train the teacher model.
 Step3: Run 2_run_UTD_All_SemanticAblationFusion_distill.py to conduct knowledge distillation.     
 
 ```
-@ARTICLE{yliuSAKDN, 
-author={Yangliu, Keze Wang, Guanbin Li, Liang Lin}, 
-journal={submitted to IEEE Transactions on Image Processing}, 
-title={Semantics-aware Adaptive Knowledge Distillation Networks for Sensor-to-Vision Action Recognition}, 
-year={2020}, 
-volume={}, 
-number={}, 
-pages={}, 
-doi={}, 
-ISSN={}, 
-month={},}
+@article{liu2020semantics,
+  title={Semantics-aware adaptive knowledge distillation for sensor-to-vision action recognition},
+  author={Liu, Yang and Wang, Keze and Li, Guanbin and Lin, Liang},
+  journal={arXiv preprint arXiv:2009.00210},
+  year={2020}
+}
 ``` 
 If you have any question about this code, feel free to reach me (liuy856@mail.sysu.edu.cn)    
 
