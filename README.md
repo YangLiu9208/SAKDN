@@ -21,7 +21,10 @@ Figure 1: Framework of our proposed SAKDN.
 The extracted GAF images for three datasets can be downloaded:       
 [UTD-MHAD](https://drive.google.com/file/d/13Odg9lR5_nT9KWhHC7bczTss1inK6HWN/view?usp=sharing)         
 [Berkeley-MHAD](https://drive.google.com/file/d/1vun7yhIXgheiqXcNHtNF0wXVVIQsGa2E/view?usp=sharing)                
-[MMAct](https://drive.google.com/file/d/1ze3nlmoxbhD4ShAF4mZ_F5XUhVX6pbCB/view?usp=sharing)        
+[MMAct](https://drive.google.com/file/d/1ze3nlmoxbhD4ShAF4mZ_F5XUhVX6pbCB/view?usp=sharing)  
+
+## Glove Extraction
+Please run [Glove.py](https://github.com/YangLiu9208/SAKDN/blob/master/Glove.py) using the [glove.840B.300d.txt](https://github.com/stanfordnlp/GloVe).     
 
 ## Codes 
 The code is available now!        
