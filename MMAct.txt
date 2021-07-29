@@ -1,0 +1,36 @@
+carrying
+carrying heavy
+carrying light
+checking time
+closing
+crouching
+drinking
+entering
+exiting
+fall
+jumping
+kicking
+loitering
+looking around
+object transfering
+opening
+picking up
+pocket in
+pocket out
+pointing
+pulling
+pushing
+running
+setting down
+sitting
+sitting down
+standing
+standing up
+talking
+talking on phone
+throwing
+transferring large object
+using pc
+using phone
+walking
+waving hand
