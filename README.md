@@ -35,11 +35,14 @@ Step3: Run 2_run_UTD_All_SemanticAblationFusion_distill.py to conduct knowledge 
 
 ```
 @article{liu2021semantics,
-  title={Semantics-aware adaptive knowledge distillation for sensor-to-vision action recognition},
   author={Liu, Yang and Wang, Keze and Li, Guanbin and Lin, Liang},
-  journal={IEEE Transactions on Image Processing},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Semantics-Aware Adaptive Knowledge Distillation for Sensor-to-Vision Action Recognition}, 
   year={2021},
-  publisher={IEEE}
+  volume={30},
+  number={},
+  pages={5573-5588},
+  doi={10.1109/TIP.2021.3086590}
 }
 ``` 
 If you have any question about this code, feel free to reach me (liuy856@mail.sysu.edu.cn)    
