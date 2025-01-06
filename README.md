@@ -14,7 +14,17 @@ Figure 1: Framework of our proposed SAKDN.
 
 ## Datasets
 [UTD-MHAD](https://personal.utdallas.edu/~kehtar/UTD-MHAD.html)        
-[Berkeley-MHAD](https://tele-immersion.citris-uc.org/berkeley_mhad/)           
+[Berkeley-MHAD](https://tele-immersion.citris-uc.org/berkeley_mhad/)    
+
+Since the link of Berkeley-MHAD cannot be accessed, we give the baiduyun download links, please download the following three files:
+
+[Berkeley-MHAD.zip](https://pan.baidu.com/s/18JE2VBnUNk5r1HBSVn6V8w?pwd=2qmq)
+
+[Berkeley-MHAD.z01](https://pan.baidu.com/s/1VdrA_YpoD_X-DJtjw92fCg?pwd=s9ck) 
+
+[Berkeley-MHAD.z02](https://pan.baidu.com/s/1F0NMVl8QiVJxLgvgt4nLWA?pwd=h844)
+
+
 [MMAct](https://mmact19.github.io/2019/)       
 
 ## GAF Data
